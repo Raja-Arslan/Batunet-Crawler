@@ -1,12 +1,57 @@
 {
+    "guzzlehttp/guzzle": {
+        "version": "6.4.1"
+    },
+    "guzzlehttp/promises": {
+        "version": "v1.3.1"
+    },
+    "guzzlehttp/psr7": {
+        "version": "1.6.1"
+    },
+    "intervention/image": {
+        "version": "2.5.1"
+    },
+    "league/flysystem": {
+        "version": "1.0.57"
+    },
+    "league/glide": {
+        "version": "1.5.0"
+    },
+    "nicmart/tree": {
+        "version": "v0.2.7"
+    },
     "psr/cache": {
         "version": "1.0.1"
     },
     "psr/container": {
         "version": "1.0.0"
     },
+    "psr/http-message": {
+        "version": "1.0.1"
+    },
     "psr/log": {
         "version": "1.1.2"
+    },
+    "ralouphie/getallheaders": {
+        "version": "3.0.3"
+    },
+    "spatie/browsershot": {
+        "version": "3.33.0"
+    },
+    "spatie/crawler": {
+        "version": "4.6.4"
+    },
+    "spatie/image": {
+        "version": "1.7.4"
+    },
+    "spatie/image-optimizer": {
+        "version": "1.2.0"
+    },
+    "spatie/robots-txt": {
+        "version": "1.0.5"
+    },
+    "spatie/temporary-directory": {
+        "version": "1.2.1"
     },
     "symfony/cache": {
         "version": "v4.3.6"
@@ -34,6 +79,9 @@
         "version": "v4.3.6"
     },
     "symfony/dependency-injection": {
+        "version": "v4.3.6"
+    },
+    "symfony/dom-crawler": {
         "version": "v4.3.6"
     },
     "symfony/dotenv": {
@@ -103,6 +151,9 @@
     "symfony/polyfill-php73": {
         "version": "v1.12.0"
     },
+    "symfony/process": {
+        "version": "v4.3.6"
+    },
     "symfony/routing": {
         "version": "4.2",
         "recipe": {
@@ -120,10 +171,16 @@
     "symfony/service-contracts": {
         "version": "v1.1.8"
     },
+    "symfony/var-dumper": {
+        "version": "v4.3.6"
+    },
     "symfony/var-exporter": {
         "version": "v4.3.6"
     },
     "symfony/yaml": {
         "version": "v4.3.6"
+    },
+    "tightenco/collect": {
+        "version": "v6.4.1"
     }
 }
