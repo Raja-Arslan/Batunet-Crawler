@@ -16,7 +16,7 @@ use \Spatie\Crawler\CrawlObserver;
 
 class HomeController
 {
-    public function number()
+    public function crawl()
     {
         return new Response(
         Crawler::create()
